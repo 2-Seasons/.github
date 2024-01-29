@@ -1,6 +1,6 @@
 ## Hi there 👋
 🙋‍♀️ 2 Seasons is an application dedicated to connecting landscapers and snow removers with clients seamlessly<br>
-🌈 The idea and business model are by Harrison Braudis and the code is by Tyson Shannon<br>
+🌈 The idea and business model is by Harrison Braudis and the code is by Tyson Shannon<br>
 🍿2 Seasons was created in Mankato, MN at the Minnesota State University<br>
 👩‍💻We are in the early stages of development<br>
 <!--
